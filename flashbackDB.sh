@@ -1,11 +1,11 @@
 #!/bin/bash
 #############################################################
 # Author : Suman Adhikari                                  ##
-# Company : 		                                           ##
-# Description : 					                                 ##
-# 							                                           ##
+# Company : 		                                   ##
+# Description : 					   ##
+# 							   ##
 # This script is developed for flashback of database to    ##
-# specific restore point				                           ##
+# specific restore point				   ##
 #############################################################
 
 ##
